@@ -1,0 +1,2 @@
+TO SEE visualization with GUI import the AI project using eclipse 
+because of res folder contain images and the folder source folder 

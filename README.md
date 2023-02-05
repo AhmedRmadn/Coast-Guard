@@ -1,6 +1,7 @@
 # Coast-Guard
 
-# Project Description You are a member of the coast guard force in charge of a rescue
+# Project Description 
+You are a member of the coast guard force in charge of a rescue
 boat that goes into the sea to rescue other sinking ships. When rescuing a ship, you need
 to rescue any living people on it and to retrieve its black box after there are no more
 passengers thereon to rescue. If a ship sinks completely, it becomes a wreck and you still
